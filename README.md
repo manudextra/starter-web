@@ -17,3 +17,7 @@ This is a simple web project, deployment can be on anyweb server or local file s
 ## How To Contribute
 
 Please give me money!
+
+### Copyright
+
+2014 Git.Training
