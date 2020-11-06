@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website for showing how to use git and Github together.
+This is a simple website for showing how to use git and Github together. Updating for emergency fix after stashing.
 
 ## Introduction
 
